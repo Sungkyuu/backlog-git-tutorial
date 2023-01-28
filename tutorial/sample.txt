@@ -5,3 +5,5 @@ Sample 파일입니다.
 <<clone해서 만든 로컬 저장소에서 Push>>
 
 의도적 충돌 만들고 해결하기 tutorial
+
+tutorial2 의도적 충돌 만들고 해결하기
